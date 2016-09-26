@@ -1,2 +1,2 @@
 # cidemo
-Files in this repository is all MEANINGLESS!!!
+Files in this repository are all MEANINGLESS!!!
